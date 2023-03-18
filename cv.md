@@ -1,8 +1,8 @@
 # Nikita Linkov
 ## Contacts 
 
-    -  e-mail: nikiton2318@gmail.com
-    -  GitHub: [basilik1](https://github.com/basilik1/)
+-e-mail: nikiton2318@gmail.com
+-GitHub: [basilik1](https://github.com/basilik1/)
 
 ## About Me
 
@@ -18,7 +18,7 @@
 
 ```
 
-    function sum(a){
+function sum(a){
     
     return function(b) {
         
